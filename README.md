@@ -9,7 +9,7 @@ A simple model trained on MNIST deployed on cortex and accessed with a simple we
  - [ ] Canvas
  - [ ] Query backend
  - [ ] Cortex logs
-  - [ ] Visualisations
+   - [ ] Visualisations
  
  ## Backend
  - [ ] Flask webserver
